@@ -1,0 +1,10 @@
+Carga tu extensión en Chrome:
+
+1. Abra chrome: // extensions / en su navegador y haga clic en "Modo desarrollador" en la parte superior derecha. 
+
+2. Ahora haga clic en "Cargar extensión desempaquetada" y seleccione el directorio de la extensión.
+
+3. Ahora debería ver su extensión en la lista.
+
+4. Cuando cambie o agregue código en su extensión, simplemente regrese a esta página
+y vuelva a cargar la página. Chrome recargará tu extensión.
